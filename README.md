@@ -8,7 +8,7 @@ A Python script is created to analyze the financial records of the company.our f
  uses Financial dataset called Budget data and has two colmns Date and Profit/losses and the script runs to analyze total number of months,net total amount of "Profit/Losses" over the entire period, changes in "Profit/Losses" over the entire period, the average of those changes,  greatest increase in profitsover the entire period, greatest decrease in profits  over the entire period
 
 
-(https://github.com/Janicesara/python-challenge/blob/main/Images/Pybank.jpeg)
+![PyBank](https://github.com/Janicesara/python-challenge/blob/main/Images/Pybank.jpeg)
 
 
 **PyPoll** 
